@@ -8,6 +8,12 @@ This project involves analyzing a dataset from a European banking institution's 
 
 A fintech company aims to enhance the success rate of calls made to customers for term deposit subscriptions. The project focuses on designing a machine learning model that not only predicts customer subscriptions with high accuracy but also offers interpretability to help clients make informed decisions.
 
+## Badges
+
+![Python version](https://img.shields.io/badge/python-3.x-blue.svg)
+
+![repo-size](https://img.shields.io/github/repo-size/bellapp/fLJZ837zANOP6KDs)
+
 ## Data Description
 
 The dataset includes information from direct marketing efforts, with features such as:
