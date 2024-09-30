@@ -11,9 +11,8 @@ A fintech company aims to enhance the success rate of calls made to customers fo
 ## Badges
 
 ![Python version](https://img.shields.io/badge/python-3.x-blue.svg)
+![repo-size](https://img.shields.io/github/languages/code-size/bellapp/fLJZ837zANOP6KDD?color=green)
 
-
-![repo-size](https://img.shields.io/github/languages/code-size/bellapp/fLJZ837zANOP6KDD)
 
 ## Data Description
 
