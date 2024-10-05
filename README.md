@@ -31,6 +31,13 @@ The dataset includes information from direct marketing efforts, with features su
 - **Duration**: Last contact duration in seconds
 - **Campaign**: Number of contacts performed during this campaign
 - **Target (y)**: Has the client subscribed to a term deposit?
+  
+## Data visualization 
+The data will be described and analyzed using interactive Tableau dashboard. The dashboard provide a visual representation of key metrics and trends, allowing for an intuitive understanding of the data. Users can explore various aspects of the dataset through dynamic charts and graphs, facilitating deeper insights and informed decision-making.
+
+
+   [![Watch the video](https://img.youtube.com/vi/8piltd5PP2Q/0.jpg)](https://www.youtube.com/watch?v=8piltd5PP2Q)
+ 
 
 ## Main Goals
 
